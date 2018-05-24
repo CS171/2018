@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: CS171 Visualization
 menu: Home
 order: 1
 ---
