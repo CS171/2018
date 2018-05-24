@@ -15,7 +15,7 @@ The amount and complexity of information produced in science, engineering, busin
 In this course you will learn how the human visual system processes and perceives images, good design practices for visualization, methods for visualization of data from a variety of fields, and programming of interactive web-based visualizations using [D3](http://d3js.org/). 
 
 
-**Attention: CS 171 has moved to the fall semester, and from now on will be taught in the fall semester only!**
+**Attention: This website shows the 2017 CS 171 course, and has not been updated for Fall 2018 yet!**
 
 **Limited enrollment:** To provide the best possible learning experience this course is limited to 70 students. If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (August 31st, 2:30pm) until Monday Sept 4th, midnight.** The survey is available on our Canvas page.
 
