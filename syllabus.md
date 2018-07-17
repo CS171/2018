@@ -8,8 +8,7 @@ order: 2
 
 Welcome to CS171! This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks.
 
-This course, when taken for a letter grade, meets the Harvard General Education requirement for Empirical and Mathematical Reasoning. 
-<!-- The course is also offered through the [Harvard University Extension School](http://www.extension.harvard.edu) as online course [CSCI E-171](http://www.extension.harvard.edu/academics/courses/visualization/24028). -->
+This course, when taken for a letter grade, meets the Harvard General Education requirement for Empirical and Mathematical Reasoning. The course is also offered through the [Harvard University Extension School](http://www.extension.harvard.edu) as online course CSCI E-171. 
 
 After completion of the course you will be able to:
 
@@ -22,13 +21,16 @@ After completion of the course you will be able to:
 * Work constructively as a member of a team to carry out a complex project
 
 ### Limited Enrollment
-To provide the best possible learning experience this course is limited to 70 students. If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (August 31st, 2:30pm) until Tuesday Sept 5th, 6pm.** The survey is available on our Canvas page.
+To provide the best possible learning experience this course is limited to 70 college students and 30 HES students respectively.  
+*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (August 31st, 2:30pm) until Tuesday Sept 5th, 6pm.** The survey is available on our Canvas page.  
+*Harvard Extension School (HES) students:* Course enrollment is on a first-come, first-serve basis.
 
 
 ### Prerequisites
-You are expected to have programming experience (e.g,. CS50) and you should be comfortable picking up new programming languages on your own. Having Javascript and web development experience is a plus, but not required. 
+You are expected to have programming experience (e.g,. CS50, Introduction to Programming) and you should be comfortable picking up new programming languages on your own. Having Javascript and web development experience is a plus, but not required. 
 
-In order to participate in labs, quizzes, and in-class activities, you will need to bring a laptop to all class meetings. Please restrict your laptop use to class-relevant activities. No social media, email, etc. because it distracts other students, not just you.
+In order to participate in labs, quizzes, and in-class activities, you will need to bring a laptop to all class meetings. Please restrict your laptop use to class-relevant activities. No social media, email, etc. because it distracts other students, not just you.  
+*HES students:* Please also bring pens, pencils, paper for sketching, and a phone or camera to upload your sketches to lecture and lab times.
 
 ### Required Textbooks
 
@@ -54,55 +56,57 @@ The class meets weekly for lectures and joint class activities. Attending lectur
 <!-- *DCE Students:* All lectures will be recorded and videos will be available within 24 hours after class time. Completed lecture activities and one-minute papers need to be submitted with your homework each week. -->
 
 ### Labs
-For most of the semester, we will hold programming labs during regular class meeting times on Tuesdays. Labs are interactive tutorials with downloadable code that give you an introduction to client-side web programming with HTML, CSS, Javascript, and D3. Completed labs need to be handed in together with the homework each week. At the end of each lab we will ask you to fill out and submit a one-minute paper to collect feedback. 
+For most of the semester, we will hold programming labs during regular class meeting times on Mondays. Labs are interactive tutorials with downloadable code that give you an introduction to client-side web programming with HTML, CSS, Javascript, and D3. Completed labs need to be handed in together with the homework each week.  
 
 <!-- *DCE Students:* Labs are self-guided tutorials that you can complete on your own. Completed labs and one-minute papers need to be handed in with your homework each week. --> 
 
 ### Readings & Pre-Class Quizzes
-Each lecture and lab includes required readings to ensure that you are prepared for the activities in class. **You are expected to complete the assigned readings before class.** Short online quizzes, due prior to each class, will test your knowledge of the readings. Quizzes will be closed once the lecture or lab has started. You have unlimited attempts to complete each question. To receive credit for pre-class quizzes, however, you must eventually submit the correct answers.
- 
-### Studios
-Weekly studios are where you will have a chance to present and receive feedback on your work, discuss homework assignments, and collaborate as a team. **Studio attendance is mandatory.** Studios are limited to 15-20 students (the numbers may vary due to enrollment) and will be lead by a TF. Your studio TF will be your main point of contact during the course. Active participation in studios is expected.  
-
-<!-- *DCE Students:* One of the studios will be recorded and made available online by the end of each week. You will be assigned to a studio group on Piazza, where a TF will organize weekly discussions. Active participation in the discussions is expected. -->
+Each lecture and lab includes required readings to ensure that you are prepared for the activities in class. **You are expected to complete the assigned readings before class.** Short online quizzes, given at the beginning of each class, will test your knowledge of the readings. 
 
 ### Homework
 Weekly homework assignments are going to provide an opportunity to improve your design and programming skills. See the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective.
 
 ### Midterm
-The midterm exam will cover material from lectures, assigned readings, labs, and homework assignments. If you do not keep up with the readings, come to lecture, and complete the homework and labs you will be at a severe disadvantage during the midterm. The midterm consists of a 90 minute open-book exam, either during class time or at home, and a take-home midterm project where you will implement an interactive visualization in D3.
+There will be two midterm exams that will cover material from lectures, assigned readings, labs, and homework assignments. If you do not keep up with the readings, come to lecture, and complete the homework and labs you will be at a severe disadvantage during the midterm. The first midterm consists of a 90 minute open-book (in-class) exam, and the second midterm will consist of an open-book part (90 minutes) as well as a take-home midterm project where you will implement an interactive visualization in D3 over the course of a couple of days.  
+*HES students:* The midterms will be open-book, not proctored, but limited to 90 minutes from the time you start it. For the take-home midterm project you will get the same amount of time as college students.
 
-### Project
+### Design Sprints
+A major part of the lectures will be design sprints. You will work in groups of 3-4 students to design, implement, and evaluate visualizations for a given topic and pre-defined datasets. Design sprints will span over 3-4 weeks, and there will be two design sprints over the course of the semester.
+
+### Final Project
 A major part of the course is a group project. You will work in groups of 3 students to design, implement, and evaluate visualizations through an iterative design process with a series of graded milestones. The final result will be web page with interactive visualizations that answer questions you have about some topic of your own choosing. A small number of projects will win the coveted Best Project prize, including Swiss chocolate.
 
 ## Grading
 
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-* Participation (15%, includes quizzes, studios, 1-minute papers, etc.) 
-* Midterm (20%)
-* Homework Assignments (30%)
-* Group Project (35%)
+* Participation (5%, includes quizzes)* Labs (5%)* Homework Assignments (30%)* Midterm (20%)* Design Sprints (10%)* Group Project (30%)
+
+Grading Rubrik:  
+* A: 100-95%; A-: 90-95%    
+* B+: 85-90%; B: 80-85%; B-: 75-80%   
+* C+: 70-75%; C: 65-70%; C-: 60-65%   
+* D+: 55-60%; D: 50-55%: D-: 45-50%  
+* F < 45%
 
 Course participation includes in-class activities, submitted labs, one-minute papers, and other activities designed to help you learn. If you earn 80% of the participation points you will get full credit for participation; anything less will be prorated accordingly.
 
-To receive credit for studio attendance you must arrive on time. <!-- You are allowed two excused studio absences without penalty; thereafter you will receive zero credit for the missed studio. To receive an excused absence you must ask your studio TF in advance and receive an acknowledgment.-->
-Please notify your studio TF in advance of your absence.
-
 There are several mandatory class meetings such as the midterm, guest lectures, project discussions, project demos, design fair, etc. Please check the schedule, plan accordingly, and do not miss these classes. 
 
-Any concerns about grading errors must be noted in writing and submitted to your TF in person during studios. 
-<!-- DCE students have two days after receiving their graded materials to submit a written request to their studio TF.) -->
+Any concerns about grading errors must be noted in writing and submitted to your TF within one week of receiving the grade.
+
 
 ## Course Policies
 
 ### Late Policy
-All project-related due dates are final. Homework assignments will be posted on the website on Tuesdays and will be due the following Monday (listed in the course schedule). **No homework assignments or project milestones will be accepted for credit after the deadline.** Solutions to the homework assignments will be discussed in studios after the homework has been collected. 
+**No homework assignments or project milestones will be accepted for credit after the deadline.** Homework assignments will be posted on the website on Mondays and will be due the following Sunday (listed in the course schedule). Solutions to labs will be made public the week after the lab has been published. Solutions to homework assignments can be discussed in office hours but will not be posted publicly.
 
 If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible.  
 
 ### Collaboration Policy
 We expect you to adhere to the [Harvard Honor Code](http://honor.fas.harvard.edu/honor-code) at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
+
+*HES students:* You are responsible for understanding Harvard Extension School policies on academic integrity (www.extension.harvard.edu/resources-policies/student- conduct/academic-integrity) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (www.extension.harvard.edu/resourcespolicies/resources/tips-avoid-plagiarism), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.
 
 **The midterm must be completed entirely on your own, and may not be discussed with anybody else!**
 
@@ -120,6 +124,8 @@ If the assignment allows it you may use third-party libraries and example code, 
 ### Accessibility
 Any student receiving accommodations through the Accessible Education Office should present their AEO letter to the Head TF as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
 
+*HES students:* The Extension School is committed to providing an accessible academic community. The Accessibility Office offers a variety of accommodations and services to students with documented disabilities. Please visit www.extension.harvard.edu/resources-policies/resources/disability-servicesaccessibility for more information.
+
 ## Course Resources 
 
 ### Online Materials
@@ -130,7 +136,7 @@ All class activity handout, slides, and required readings will be posted on Canv
 We use Piazza as our discussion forum and for all announcements, so it is important that you are signed up as soon as possible. Piazza should always be your first resource for seeking answers to your questions. You can also post privately so that only the staff sees your message.  
 
 ### Office Hours
-The teaching fellows will provide office hours for individual questions that you might have about the homework assignments or project progress. Office hours are usually very heavily attended. Please try to limit your visits to one office hour per week and consult Piazza first.   
+The teaching fellows will provide office hours for individual questions that you might have about the homework assignments or project progress. Office hours are usually very heavily attended. As office hours are usually very heavily attended, please consult Piazza as a first option to get help.
 
 ### Credits
 Some of the material in this course is based on the classes taught by **Alexander Lex** at the University of Utah, **Carlos Scheidegger** at the University of Arizona,  **Marc Streit** at JKU Linz, **Pat Hanrahan** at Stanford, **Jeff Heer** at the University of Washington, **Hans-Joerg Schulz** at the University of Rostock, **Nils Gehlenborg** at Harvard Medical School, **Torsten Möller** at the University of Vienna, **Tamara Munzener** at the Univeristy of British Columbia, **Helwig Hauser** at the University of Bergen, **Maneesh Agrawala** at UC Berkeley, and **Hendrik Strobelt** at IBM Research. We have heavily drawn on materials and examples found online and tried our best to give credit by linking to the original source. Please contact us if you find materials where the credit is missing or that you would rather have removed.

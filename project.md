@@ -9,21 +9,17 @@ order: 5
 A major part of this course is a group project, in which you will work in small teams on a web-based interactive visualization that allows you to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualization, implement it using D3, and evaluate the results. 
 
 ## Project Team
-You will work closely with other classmates in a **3 person project team**. We will form the teams in each studio group and assign students with complementary skill sets to the same team. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+You will work closely with other classmates in a **3-4 person project team**. Team formation will be discussed in class. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
 ## Project Milestones
 The project consists of several milestones that need to be submitted on the specified due dates listed in the [schedule]({{ site.baseurl }}/schedule/). **No extensions will be given** for any of the project due dates for any reason. Projects submitted after the final due date will not be graded. 
 
 The project milestones are:
 
-* Project proposal
-* Detailed project plan
+* Project proposal and detailed project plan
 * Project prototypes V1 and V2
 * Project review with the staff
-* Peer feedback (in studio)
 * Final project submission (including screen-cast)
-* Group peer evaluations
-* Project demos 
 
 ## Implementation Requirements
 To get a sense about the scope of your final projects, please take a look at our [gallery]({{ site.baseurl }}/fame/) of projects from previous yers.
@@ -34,7 +30,7 @@ To be more specific, your final project you have to fulfill the following requir
 	* a) an extension of an existing visualization type, or 
 	* b) a novel visualization type 
 
-There will be lectures about innovation and how to implement innovative ideas with D3 in week 11 and 12.
+There will be a lab about innovation and how to implement innovative ideas with D3 in week 10.
 
 For grading the implementation part of the final project, we will evaluate projects by the following criteria:
 
@@ -51,7 +47,7 @@ For grading the implementation part of the final project, we will evaluate proje
 In your project proposal you will let us know what topic you are interested in exploring, including a project title and abstract, by submitting a project proposal form. Each team will only need to submit one form.
 
 ## Project Plan
-You will create a detailed project plan (during weeks 9-10), which should address the following points. For detailed submission instructions please see Canvas.
+You will create a detailed project plan, which should address the following points. For detailed submission instructions please see Canvas.
 
 * **Basic Info.** The project title, your names, e-mail addresses, UIDs, a link to the project URL.
 * **Background and Motivation.** Discuss your motivations and reasons for choosing this project, especially any background or research interests that may have influenced your decision.
@@ -66,9 +62,6 @@ You will create a detailed project plan (during weeks 9-10), which should addres
 * **Project Schedule.** Make sure that you plan your work so that you can avoid a big rush right before the final project deadline, and delegate different modules and responsibilities among your team members. Write your schedule in terms of weekly deadlines.
 
 The project plan is the first part of your process book (see Final Project Submission for details). As a ballpark number: your project plan should contain about 3-4 pages of text, plus 5-6 pages of sketches.
-
-## Project Re-design
-During studios, you will discuss and review your project plan with your TF, as well as give and receive peer feedback. These discussions will lead to a re-design of your project. The second entry in your process book should be the project re-design, including new sketches and designs based on the feedback you received.
 
 ## Project Prototypes V1 and V2
 For your **prototype V1**, we expect you to hand in your code and your process book in its current state (see Final Project Submission for details). You should have completed your data acquisition, and you must have a working visualization prototype. You do not have to have all your views up and running, and it does not need to be completely interactive, but the direction and the content must be clear. 
@@ -128,7 +121,7 @@ Store the following in your zip file:
 * README - The README file must give an overview of what you are handing in: which parts are your code, which parts are libraries, and so on. The README must contain URLs to your project websites and screencast videos. The README must also explain any non-obvious features of your interface.
 
 ## Grading Criteria
-The entire project is worth 40% of the entire grade, the specific break-down of the individual project parts is shown here:
+The entire project is worth 30% of the entire grade, the specific break-down of the individual project parts is shown here:
 
 * Project Proposal: 5%
 * Initial and Detailed project plan: 10%

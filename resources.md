@@ -24,17 +24,17 @@ menu: Resources
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
 
 [Official D3 Site](http://d3js.org/)  
-[Official D3 API reference (version 4)](https://github.com/d3/d3/blob/master/API.md)
+[Official D3 API reference (version 4)](https://github.com/d3/d3/blob/master/API.md)   
 [Official D3 API reference (version 3.x)](https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md)  
-[D3 Tutorial by Scott Murray (D3 version 3)](http://alignedleft.com/tutorials/d3/)
+[D3 Tutorial by Scott Murray (D3 version 3)](http://alignedleft.com/tutorials/d3/)   
 [Jerome Cukier's D3 Cheat Sheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)
 
 
 ## Web Development
 
-[WebStorm by JetBrains](https://www.jetbrains.com/webstorm/) - Smart JavaScript IDE ([free for students](https://www.jetbrains.com/student/))
-[Eloquent Javascript Book](http://eloquentjavascript.net/)
-[DevDocs](http://devdocs.io/), [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Unified documentations on major web technologies
+[WebStorm by JetBrains](https://www.jetbrains.com/webstorm/) - Smart JavaScript IDE ([free for students](https://www.jetbrains.com/student/))   
+[Eloquent Javascript Book](http://eloquentjavascript.net/)   
+[DevDocs](http://devdocs.io/), [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Unified documentations on major web technologies   
 [Github (Git repository hosting service)](https://github.com/) - Version control system for software development ([free private repositories for students](https://education.github.com/pack))
 
 ## Tableau
@@ -44,31 +44,31 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 
 ## Data Sources
 
-[Data.gov](http://www.data.gov/)
-[Census.gov](http://www.census.gov/)
-[Dataverse Network](http://thedata.org/)
-[Climate Data Sources](http://www.realclimate.org/index.php/data-sources/)
-[Climate Station Records](http://www.metoffice.gov.uk/climatechange/science/monitoring/subsets.html)
-[CDC Data (Disease Control and Prevention)](http://www.cdc.gov/nchs/data_access/data_tools.htm)
-[World Bank Catalog](http://data.worldbank.org/data-catalog)
-[Free SVG Maps](http://www.d-maps.com/index.php?lang=en)
-[UK Office for National Statistics](http://www.statistics.gov.uk/default.asp)
-[StateMaster](http://www.statemaster.com/index.php)
-[Quandl](http://www.quandl.com)
+[Data.gov](http://www.data.gov/)  
+[Census.gov](http://www.census.gov/)  
+[Dataverse Network](http://thedata.org/)  
+[Climate Data Sources](http://www.realclimate.org/index.php/data-sources/)  
+[Climate Station Records](http://www.metoffice.gov.uk/climatechange/science/monitoring/subsets.html)  
+[CDC Data (Disease Control and Prevention)](http://www.cdc.gov/nchs/data_access/data_tools.htm)  
+[World Bank Catalog](http://data.worldbank.org/data-catalog)  
+[Free SVG Maps](http://www.d-maps.com/index.php?lang=en)  
+[UK Office for National Statistics](http://www.statistics.gov.uk/default.asp)  
+[StateMaster](http://www.statemaster.com/index.php)  
+[Quandl](http://www.quandl.com)  
 
 
 ## Web Sites & Blogs
 
-[Flowing Data](http://flowingdata.com/)
-[Visual Complexity](http://www.visualcomplexity.com/vc/)
-[Guardian DataBlog](http://www.guardian.co.uk/news/datablog)
+[Flowing Data](http://flowingdata.com/)  
+[Visual Complexity](http://www.visualcomplexity.com/vc/)  
+[Guardian DataBlog](http://www.guardian.co.uk/news/datablog)  
 [The Upshot](http://www.nytimes.com/section/upshot)
 
 
 ## Other Software Toolkits
 
-[Plot.ly](https://plot.ly)
-[Wolfram Mathematica](http://www.wolfram.com/mathematica/)
+[Plot.ly](https://plot.ly)  
+[Wolfram Mathematica](http://www.wolfram.com/mathematica/)  
 [Prefuse](https://github.com/prefuse/Prefuse) (Java)
 
 
