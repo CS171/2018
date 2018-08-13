@@ -22,7 +22,7 @@ After completion of the course you will be able to:
 
 ### Limited Enrollment
 To provide the best possible learning experience this course is limited to 70 college students and 30 HES students respectively.  
-*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (August 31st, 2:30pm) until Tuesday Sept 5th, 6pm.** The survey is available on our Canvas page.  
+*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (Sept 5th, 5:00pm) until Sunday Sept 9th, midnight.** The survey is available on our Canvas page.  
 *Harvard Extension School (HES) students:* Course enrollment is on a first-come, first-serve basis.
 
 

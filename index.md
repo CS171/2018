@@ -34,7 +34,7 @@ In this course you will learn how the human visual system processes and perceive
 ### Course Sessions
 
 **Lectures & Labs:**   
-Monday and Wednesday 3:00-5:45pm, Location: [Pierce 301](https://www.google.com/maps/place/Pierce+Hall/@42.3780874,-71.1192954,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774113de44af:0x5966efcfd3aa5965!8m2!3d42.3780874!4d-71.1171014?hl=en)  
+Monday and Wednesday 3:00-5:00pm, Location: [Pierce 301](https://www.google.com/maps/place/Pierce+Hall/@42.3780874,-71.1192954,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774113de44af:0x5966efcfd3aa5965!8m2!3d42.3780874!4d-71.1171014?hl=en)  
 *HES students:* Monday and Thursday 7:55-9:55pm, online video conference.
 
 **Office Hours:**
