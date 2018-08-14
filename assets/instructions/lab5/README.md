@@ -6,7 +6,7 @@ layout: empty
 
 &nbsp;
 
-![Lab 5](cs171-lab5-banner.png?raw=true "Lab 5")
+<img src="cs171-lab5-banner.png" width="600" alt="Lab 5">
 
 # Lab 5
 
