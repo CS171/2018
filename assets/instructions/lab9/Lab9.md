@@ -1,8 +1,15 @@
+---
+layout: lab
+---
+
 <img src="cs171-logo.png" width="200">
 
 &nbsp;
 
 # Lab 9
+
+### Pre-Reading Quiz
+Please fill out the pre-reading quiz on Canvas at the beginning of class!
 
 ### Learning Objectives
 

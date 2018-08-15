@@ -10,7 +10,7 @@ layout: lab
 
 Welcome to the first lab of CS171! 
 
-***First step:***
+***First step:*** 
 Please go to Canvas and fill in the pre-reading quiz. The quiz is live from 2:50pm to 3:10pm (on-campus students) and until 8:10pm (for DCE students).
 
 Our labs are designed as work-books in the style of a self-guided tutorial. We ask you to read and work through the given example problems, and to hand in the code of your completed lab at the end of each week, together with your homework.
