@@ -8,7 +8,11 @@ layout: lab
 
 <img src="cs171-lab5-banner.png" width="600" alt="Lab 5">
 
+
 # Lab 5
+
+### Pre-Reading Quiz
+Please fill out the pre-reading quiz on Canvas at the beginning of class!
 
 ### Learning Objectives
 
