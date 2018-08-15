@@ -8,7 +8,7 @@ layout: lab
 
 # Homework 0
 
-Welcome to CS171.  This initial homework intends to get you acquainted with the structure and set-up of CS171 to ensure that everything goes smoothly moving forward.
+Welcome to CS171!  This initial homework intends to get you acquainted with the structure and set-up of CS171 to ensure that everything goes smoothly moving forward.
 
 To complete this homework, you will have to do the following steps (which will be explained in more detail below):
 

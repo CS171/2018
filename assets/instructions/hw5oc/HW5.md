@@ -1,3 +1,7 @@
+---
+layout: lab
+---
+
 <img src="cs171-logo.png" width="200">
 
 &nbsp;
