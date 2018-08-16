@@ -121,15 +121,13 @@ Store the following in your zip file:
 * README - The README file must give an overview of what you are handing in: which parts are your code, which parts are libraries, and so on. The README must contain URLs to your project websites and screencast videos. The README must also explain any non-obvious features of your interface.
 
 ## Grading Criteria
-The entire project is worth 30% of the entire grade, the specific break-down of the individual project parts is shown here:
+The entire project is worth 30% (i.e., 60 points) of the entire grade, the individual project parts are shown below. For a detailed break-down of the points please refer to the Canvas submissons:
 
-* Project Proposal: 5%
-* Initial and Detailed project plan: 10%
-* Prototype V1: 15%
-* Prototype V2: 20% 
-* Final Project: 40%
-* Process Book: 5%
-* Project Video and Webpage: 5%
+* Project Proposal
+* Initial and Detailed project plan
+* Prototype V1
+* Prototype V2
+* Final Project (includes Process Book, Project Video and Webpage)
 
 For the final project submissions, please keep our main grading criteria in mind:
 

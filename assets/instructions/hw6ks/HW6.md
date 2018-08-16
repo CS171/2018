@@ -226,25 +226,27 @@ You should now apply what you have learned to create an interactive visualizatio
 
 	Maintain good spacing between UI components, overall layout, font size, color scheme, etc.
 	
-## 2) Interaction Design (3 points)
+## 2) Design (3 points)
+Look at the visualizations for a previous presidential election by FiveThirtyEight at [http://projects.fivethirtyeight.com/2016-election-forecast/](http://projects.fivethirtyeight.com/2016-election-forecast/). Among other people, our own [Gus Wezerek](http://fivethirtyeight.com/contributors/gus-wezerek/)  is part of the design team for this visualization. Gus took CS171 two years ago - we think it shows. :) 
 
-1. **Chose a visualization**
+a) Chose **one** visualization and critique its design by answering the following questions:
 
-	Chose one of your design sketches from HW 4 (Gender Inequality Index data). If you don’t think they are sufficient for this task, please provide a new one. You can also use a different dataset, but only if you can provide a link to the data source (no artificial data).
+	- Who is the intended audience?
+	- What questions does this visualization answer? 
+	- What data is represented in this visualization?
+	- How is the data visually encoded? 
+	- What design principles - Tufte / visual channels / Gestalt / CRAP - are at work? 
+	- Is this visualization telling a story? 
+	- Is the information density high / low? Is it opinionated?
+Be as precise in your answers as possible. 
 
-2. **Create an interaction storyboard**
+b) Pick one question that you think is being answered by this visualization and the associated data. Create a story around that question and create a sketch of a visualization that supports your story. To do so, you can either modify the given visualization or create a new one. You can use printouts of images and text from this visualization or others and glue them on your sketch paper. Please do NOT sketch with electronic tools.
 
-	Design an interaction storyboard (branching storyboard) that uses at least three interaction strategies for data and view specification or/and view manipulation. Imagine yourself in a situation where you have to present your interaction concepts to a client. Please use pen and paper.
+c) Is your story opinionated or neutral? Is the information density high or low?
 
-3. **Answer the following questions/tasks for EACH interaction:**
+d) What design principles did you use for your design? Use the terminology of Tufte / visual channels / Gestalt / CRAP.
 
-	- Which questions can you answer by using your interactions?
-	- Use the *Heer & Shneiderman* taxonomy to classify every interaction.
-
-4. **Create a PDF with ALL your results**
-
-	- Scan your branching interaction storyboards.
-
+e) Sketch a storyboard with at least two interactions that would enhance user engagement. You can use printouts and glue, but please stick to pen and paper and do NOT use electronic tools! 
 
 ## 3) Bonus Task (1 point)
 
