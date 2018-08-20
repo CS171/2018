@@ -1,5 +1,6 @@
 ---
 layout: lab
+exclude: true
 ---
 
 <img src="cs171-logo.png" width="200">

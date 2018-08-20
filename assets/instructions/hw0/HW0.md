@@ -1,6 +1,5 @@
 ---
 layout: lab
-nomenu:
 exclude: true
 ---
 
