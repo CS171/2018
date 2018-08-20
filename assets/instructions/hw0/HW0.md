@@ -1,6 +1,6 @@
 ---
 layout: lab
-hide: true
+options: nomenu
 ---
 
 <img src="cs171-logo.png" width="200">
