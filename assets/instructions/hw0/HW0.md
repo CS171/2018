@@ -1,5 +1,6 @@
 ---
 layout: lab
+menu: nomenu
 ---
 
 <img src="cs171-logo.png" width="200">

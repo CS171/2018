@@ -89,7 +89,7 @@ Grading Rubrik:
 * D+: 55-60%; D: 50-55%: D-: 45-50%  
 * F < 45%
 
-Course participation includes in-class activities, submitted labs, one-minute papers, and other activities designed to help you learn. If you earn 80% of the participation points you will get full credit for participation; anything less will be prorated accordingly.
+Course participation includes in-class activities, submitted labs, one-minute papers, and other activities designed to help you learn. Your lowest 3 scores of all reading quizzes will be dropped.
 
 There are several mandatory class meetings such as the midterm, guest lectures, project discussions, project demos, design fair, etc. Please check the schedule, plan accordingly, and do not miss these classes. 
 
