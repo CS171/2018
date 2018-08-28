@@ -50,9 +50,10 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/42421)
 
 * *Extension School TF:* Alain Ibrahim - Digital Product Development Manager
 * Michael Behrisch - Postdoctoral Fellow, Visual Computing Group 
+* Luke Civantos - Undergraduate
 * Felix Gonda - PhD Candidate, Visual Computing Group
 * Katherine Harrison - Undergraduate
-* Rachel Kang - Undergraduate
+* Rachel Kang - A. B. Candidate in Computer Science, Class of 2020
 * Nam Wook Kim - PhD Candidate, Visual Computing Group
 * Robert Krueger - Postdoctoral Fellow, Visual Computing Group
 * Celina Qi - Undergraduate
