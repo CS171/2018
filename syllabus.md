@@ -48,6 +48,8 @@ All the clanking gears are here: variable resolution image detection, eye moveme
 *An introduction to D3 for people new to programming and web development, published by O’Reilly. “Explaining tricky technical topics with aplomb (and a little cheeky humor) is Scott Murray’s forte. If you want to dive into the world of dynamic visualization using web standards, even if you are new to programming, this book is the place to start.” - Mike Bostock, creator of D3*
 <br />
 
+A purchase link for both books from the Coop bookstore can be found [here](https://tinyurl.com/300-CSCI-171-F18-1).
+
 ## Course Components
 
 ### Lectures
