@@ -97,7 +97,7 @@ There are several mandatory class meetings such as the midterm, guest lectures, 
 
 Any concerns about grading errors must be noted in writing and submitted to your TF within one week of receiving the grade.
 
-###Graduate-credit###
+*Graduate-credit:*  
 Students taking this course for graduate credit are expected to do more work and perform at higher standards than undergraduate-credit students. In particular, graduate-credit students are required to complete all bonus parts in assigned homeworks and we expect a more comprehensive final project.
 
 ## Course Policies
