@@ -181,10 +181,7 @@ Submission instructions:
    	        index.html
 	        css/ 		...folder with all CSS files
 	        js/ 		...folder with all JavaScript files
-	    design/         ...folder for your sketches
-	        ...
-	lab/
-	    ...
+
 ```
 
 2. Make sure to keep the overall size of your submission under 5MB! Sketches don't have to be in the highest resolution, but should still be readable.
