@@ -18,8 +18,7 @@ This homework requires that you have read and programmed along with chapters 7 a
 ## 1) Complete and Submit Lab 4
 Due to Indigenous Peoples' Day/Columbus Day (Monday, 10/08/2018) this week's lab will not take place.
 Please complete Lab 4 as the first part of the homework and submit it as usual under Canvas - Lab 4 Submission.
-Please don't forget to read the lab's [pre-reading](https://canvas.harvard.edu/courses/42421/pages/pre-reading) and fill out the lab's quiz, which will be online 
-- Oct 8 (Monday) at 2:50pm till Oct 9 (Tuesday) at 10:00pm for CS171 all students (on-campus and extension school)
+Please don't forget to read the lab's [pre-reading](https://canvas.harvard.edu/courses/42421/pages/pre-reading) and fill out the lab's quiz, which will be online: Oct 8 (Monday) at 2:50pm till Oct 9 (Tuesday) at 10:00pm for CS171 all students (on-campus and extension school)
 
 [Follow this link to Lab 4 - Instructions](http://www.cs171.org/2018/assets/instructions/lab4/Lab4.html)
 
