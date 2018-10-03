@@ -15,7 +15,12 @@ This homework requires that you have read and programmed along with chapters 7 a
 
 &nbsp;
 
-## 1) Za'atari Refugee Camp (6 points)
+## 1) Lab 4 (x points)
+Due to Columbus Day will not take place on Monday (10/08/2018).
+Please do lab 4 as the first part of the homework and submit it as usual under Canvas - Lab 4 Submission.
+[follow this link to Lab 4 - Instructions](http://www.cs171.org/2018/assets/instructions/lab4/Lab4.html)
+
+## 2) Za'atari Refugee Camp (6 points)
 
 Za’atari is a refugee camp in Jordan that opened in 2011 to host people fleeing from the Syrian civil war. With around 80,000 refugees it is one of the largest UN-supported camps and over the past few years it transformed from a tent camp to a real city with water and sewage systems, markets, coffee shops etc.
 
@@ -146,102 +151,8 @@ The REACH initiative and Unicef evaluated the type of shelters in the Za'atari r
 
 Congratulations on finishing the D3 part of your homework! Up until now, all your visualizations have been static (i.e., the initial visualization did not change after first rendering). Over the next couple of weeks you will learn how to dynamically update visualizations, and how to create dynamic transitions. You will also learn how to link two or more visualizations together, so that the interaction in one view will automatically trigger an update of the second view! 
 	
-## 2) Design Creation (2 points)
 
-In the next part of this homework we want you to go one step back and focus on the design creation. The process of creating and analyzing multiple sketches is crucial before you start with the implementation.
-
-We provide a new dataset which you can download here (or see table below): 
-[http://www.cs171.org/2018/assets/scripts/hw4/gii-data.csv](http://www.cs171.org/2018/assets/scripts/hw4/gii-data.csv)
-
-*The sketches should be hand-drawn! They should communicate your idea and the rough concept of how the visualization should look like. Even if we give you a table with detailed information, you should not draw all the exact data points. Perfection should not be the goal of these sketches.*
-
-
-### Instructions
-
-1. **Formulate three questions that you would like to answer regarding the dataset**
-
-	- Submit these questions with your sketches.
-
-2. **To answer *each* question, create a sketch of a visualization. Each sketch has to answer at least one of the questions you identified above. In total, you should hand in at least three sketches that fulfill the following requirements:**
-
-	- All sketches have to show at least two of the data dimensions. One of these dimensions has to be nominal.
-	- At least one sketch should encode **all** data dimensions. At the end you should have at least three different sketches. (Just showing the data table does not count as sketch.)
-
-3. **For *each* of your sketches describe...**
-	
-	- which visual channels do you use for which dimension
-	- the Gestalt principles that you use 
-	- which question this sketch is trying to answer, and how
-	
- 
-4. **Scan your sketches and create a PDF with all your results**
-
-
-### Data
-
-| Country            | Continent     | Human Development | Gender Inequality Index | Share of seats in parliament (% held by women) |
-|--------------------|---------------|-------------------|-------------------------|------------------------------------------------|
-| United States      | North America | very high         | 0.28                    | 19.4                                           |
-| Sweden             | Europe        | very high         | 0.055                   | 43.6                                           |
-| Qatar              | Asia          | very high         | 0.524                   | 0                                              |
-| Mozambique         | Africa        | low               | 0.591                   | 39.6                                           |
-| Germany            | Europe        | very high         | 0.041                   | 36.9                                           |
-| Saudi Arabia       | Asia          | very high         | 0.284                   | 19.9                                           |
-| Argentina          | South America | very high         | 0.376                   | 36.8                                           |
-| Russian Federation | Asia          | high              | 0.276                   | 14.5                                           |
-| India              | Asia          | medium            | 0.563                   | 12.2                                           |
-| China              | Asia          | high              | 0.191                   | 23.6                                           |
-| Egypt              | Africa        | medium            | 0.573                   | 2.2                                            |
-| Maldives           | Asia          | high              | 0.243                   | 5.9                                            |
-| Australia          | Oceania       | very high         | 0.11                    | 30.5                                           |
-| Switzerland        | Europe        | very high         | 0.028                   | 28.5                                           |
-| Cuba               | North America | high              | 0.356                   | 48.9                                           |
-
-
-> **Gender Inequality Index (GII)**
-> 
-> "Gender inequality remains a major barrier to human development. Girls and women have made major strides since 1990, but they have not yet gained gender equity. The disadvantages facing women and girls are a major source of inequality. All too often, women and girls are discriminated against in health, education, political representation, labour market, etc. — with negative repercussions for development of their capabilities and their freedom of choice."
-> 
-> "The GII is an inequality index. It measures gender inequalities in three important aspects of human development—reproductive health, measured by maternal mortality ratio and adolescent birth rates; empowerment, measured by proportion of parliamentary seats occupied by females and proportion of adult females and males aged 25 years and older with at least some secondary education; and economic status, expressed as labour market participation and measured by labour force participation rate of female and male populations aged 15 years and older."
-> 
-> *- United Nations Development Programm*
-
-
-
-## 3) Design Critique (2 points)
-
-In this part of the homework you will perform a visualization critique on the HW3 sketches of one of your peers. You will give this feedback via the peer review feature of Canvas. After giving the feedback, you will submit only the email address of the student you critiqued as part of this homework.
-
-1. **One random classmate will be assigned to you**
-
-To ensure that each student gets valid feedback, we will randomly assign students with each other.
-
-2. **Provide a constructive design critique for the redesign sketch that the student picked as the best solution (HW3 redesign, question 2).**
-
-	Answer the following questions in the peer feedback:
-	
-	- What visual channels are used to encode the data? 
-	- Is the encoding effective based on the ranking of visual features?
-	- Do you like or not like the visualization? Why?
-	- What could be improved?
-
-
-	*Please be constructive, polite and honest - you give feedback to the student directly. Feedback is only helpful if it addresses problems but also gives credit where credit is due. Take a look at this [link](http://www.aiga.org/how-to-survive-a-critique/) on how to give constructive peer feedback.*
-
-	> #### How to give peer feedback on Canvas
-	>
-	> *(1) Open the peer review link for HW 3 under your To Do list on Canvas. It should appear similar to the screenshot below, with the link showing "Peer Review for HW 3".*
-	>
-	> <img src="peer_todo.PNG" width="200">
-	>
-	> *(2) Download the zip submission, unzip, and look for the redesign sketch. If the student followed our recommended folder structure, it should be under the hw/design/ folder. Submit your review as a comment.*
-	>
-	> <img src="peer_review.PNG" width="600">
-
-3. **To document your feedback, copy the email address of the student who's visulization you critiqued into the PDF from part 2 (design creation)**
-
-
-## 4) Bonus Task (1 point)
+## 3) Bonus Task (1 point)
 
 Please make sure to finish all previous tasks completely before you start with the bonus activity. Extra credit is only given if the rest of the homework has been completed and the full possible points have been received. This task is intended for those of you who have already more experience with JS libraries.
 
@@ -256,7 +167,7 @@ You can either draw two paths (d3 area function) and clip the defined regions or
 Of course the mouse pointer and the dynamic tooltips should remain unchanged.
 
 
-## 5) Submit Homework in Canvas
+## 4) Submit Homework in Canvas
 
 Submission instructions:
 
