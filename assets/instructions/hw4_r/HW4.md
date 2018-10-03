@@ -16,7 +16,7 @@ This homework requires that you have read and programmed along with chapters 7 a
 &nbsp;
 
 ## 1) Complete and Submit Lab 4 (x points)
-Due to Indigenous Peoples' Day/Columbus Day this week's lab will not take place on Monday (10/08/2018).
+Due to Indigenous Peoples' Day/Columbus Day (Monday, 10/08/2018) this week's lab will not take place.
 Please complete lab 4 as the first part of the homework and submit it as usual under Canvas - Lab 4 Submission.
 
 [Follow this link to Lab 4 - Instructions](http://www.cs171.org/2018/assets/instructions/lab4/Lab4.html)
