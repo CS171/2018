@@ -18,7 +18,8 @@ This homework requires that you have read and programmed along with chapters 7 a
 ## 1) Complete and Submit Lab 4 (x points)
 Due to Indigenous Peoples' Day/Columbus Day this week's lab will not take place on Monday (10/08/2018).
 Please complete lab 4 as the first part of the homework and submit it as usual under Canvas - Lab 4 Submission.
-[follow this link to Lab 4 - Instructions](http://www.cs171.org/2018/assets/instructions/lab4/Lab4.html)
+
+[Follow this link to Lab 4 - Instructions](http://www.cs171.org/2018/assets/instructions/lab4/Lab4.html)
 
 ## 2) Za'atari Refugee Camp (6 points)
 
