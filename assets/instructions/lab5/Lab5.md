@@ -626,11 +626,11 @@ data analysis. In this case, use a static comparison of several charts/images (e
 
 -----
 
-#### Submission of lab (activity II, and III) as part of homework 5
+#### Submission of lab (activity II, and III)
 
 Congratulations, you have now completed the activities of Lab 5!
 
-Please submit the code of your completed lab (the final interactive bar chart of activities II and III) with your homework 5 submission. Make sure to upload all files of this lab in a subfolder called "lab".
+Please submit the code of your completed lab (the final interactive bar chart of activities II and III).
 
 -----
 

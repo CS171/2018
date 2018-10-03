@@ -385,7 +385,7 @@ Listen to mouse events: If the user hovers over a cell highlight all elements th
 
 Congratulations, you have now completed Lab 8! 
 
-Please submit the code of your completed lab (the sortable matrix visualization and optionally the bonus activities). In Canvas, under this week's modules, use the Lab 10 Submission link. Upload a zipped folder with your implementation. 
+Please submit the code of your completed lab (the sortable matrix visualization and optionally the bonus activities) on Canvas.
 
 -----
 

@@ -599,7 +599,7 @@ Choropleths can be generated from any values, not just political ones, and they 
 
 Congratulations, you have now completed the activities of Lab 7! 
 
-Please submit the code of your completed lab (the final force layout and the map visualization of activities I and II). In Canvas, under this week's modules, use the Lab 7 Submission link. Upload your implementation in a zipped folder with filename submission_FirstnameLastname.zip. 
+Please submit the code of your completed lab (the final force layout and the map visualization of activities I and II).
 
 
 -----

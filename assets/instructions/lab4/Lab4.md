@@ -473,11 +473,11 @@ The code snippets above should help you to easily modify your current solution.
 
 -----
 
-#### Submission of lab (activity I, II, and III) as part of homework 4
+#### Submission of lab (activity I, II, and III) 
 
 Congratulations, you have now completed the activities of Lab 4!
 
-Please upload the code of your completed lab (the final scatterplot of activities I, II, and III) with your homework 4 submission! Make sure to upload all files of this lab in a subfolder called "lab".
+Please upload the code of your completed lab (the final scatterplot of activities I, II, and III)! 
 
 -----
 

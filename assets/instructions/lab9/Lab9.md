@@ -504,7 +504,7 @@ To solve this problem you can also create a button to reset the view.
 
 Congratulations, you have now completed the activities of Lab 9!
 
-Please submit the code of your completed lab (the final interactive webpage). In Canvas, under this week's modules, use the Lab 9 Submission link. Upload a zipped folder with your implementation.
+Please submit the code of your completed lab (the final interactive webpage), use the Lab 9 Submission link. 
 
 -----
 

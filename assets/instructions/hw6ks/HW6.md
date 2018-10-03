@@ -273,8 +273,7 @@ Submission instructions:
 	        css/ 		...folder with all CSS files
 	        js/ 		...folder with all JavaScript files
 	    design/         ...folder for your sketches
-	        ...
-	lab/
+
 	    ...
 ```
 
@@ -282,6 +281,6 @@ Submission instructions:
 
 3. Upload a single .zip file.
 
-4. Also submit the completed lab on Canvas.
+4. Please submit your lab _separately_ on canvas.
 
 **Congratulations for finishing Homework 6! See you in class!**

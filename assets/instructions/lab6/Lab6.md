@@ -589,7 +589,7 @@ Great job, you now have a focus-and-context visualization that even allows you t
 
 Congratulations, you have now completed the activities of Lab 6!
 
-Please submit the code of your completed lab (the final focus-and-context visualization you created in activities I-IV) as usual with your homework submission. 
+Please submit the code of your completed lab (the final focus-and-context visualization you created in activities I-IV) as usual.
 
 -----
 
