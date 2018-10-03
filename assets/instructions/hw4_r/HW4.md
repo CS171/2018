@@ -184,7 +184,7 @@ Submission instructions:
 
 ```
 
-2. Make sure to keep the overall size of your submission under 5MB! Sketches don't have to be in the highest resolution, but should still be readable.
+2. Make sure to keep the overall size of your submission under 5MB!
 
 3. Upload a single .zip file.
 
