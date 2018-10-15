@@ -139,7 +139,23 @@ A D3 line chart will be the core component of your visualization. The x-axis rep
 12. **Create a proper style for your webpage**
 
 	Maintain good spacing between UI components, overall layout, font size, color scheme, etc. Also, make sure that transitions are intuitive and clear.
-	
+
+## 2) Check out the IEEE Visualization Conference (3 points)
+
+Most of the CS171 staff is at the IEEE Visualization conference in Berlin, Germany this week. IEEE Vis is the world's largest research conference on visualization.
+
+All technical papers had to submit 30 second preview videos, which you can find [here](https://vimeo.com/groups/vis18previews).
+
+Browse the selection of videos and pick your three favorites. Your favorites can include videos that impress you for their visualization, high-quality video production, interesting topic, or any other reason. 
+
+- Write a ***short*** paragraph (40-100 words) on each of the three videos, telling us why you picked them.
+
+This assignment is meant to introduce you to the world of visualization *research*. Not all videos will be polished, some will tell you just the basic facts, while others will be more like an *elevator pitch*, trying to sell their visualization to you. Have fun exploring!
+
+
+
+<!--
+
 ## 2) Interaction Design (3 points)
 
 1. **Chose a visualization**
@@ -158,6 +174,8 @@ A D3 line chart will be the core component of your visualization. The x-axis rep
 4. **Create a PDF with ALL your results**
 
 	- Scan your branching interaction storyboards.
+	
+-->
 
 ## 3) Bonus Task (1 point)
 
