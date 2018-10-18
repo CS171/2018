@@ -17,7 +17,7 @@ This homework requires that you have read and **programmed** along with:
 
 
 
-## 1) A survey about the diffusion of microfinance loans (7 points)
+## 1) A survey about the diffusion of microfinance loans (8 points)
 
 In this homework you will work with survey data on microfinance loans. Banerjee et al [1] collected the data in order to develop a model of information diffusion in social networks. To come right to the point: you don't need any knowledge or additional information on microfinance. We will only cover a very small part of the collected data to demonstrate you how to visualize survey results efficiently with JS and D3.
 
@@ -227,27 +227,19 @@ You should now apply what you have learned to create an interactive visualizatio
 
 	Maintain good spacing between UI components, overall layout, font size, color scheme, etc.
 	
-## 2) Design (3 points)
-Look at the visualizations for a previous presidential election by FiveThirtyEight at [http://projects.fivethirtyeight.com/2016-election-forecast/](http://projects.fivethirtyeight.com/2016-election-forecast/). Among other people, our own [Gus Wezerek](http://fivethirtyeight.com/contributors/gus-wezerek/)  is part of the design team for this visualization. Gus took CS171 two years ago - we think it shows. :) 
+## 2) Design (2 points)
+Look at the visualizations philosophers by Marian Doerk at [http://mariandoerk.de/edgemaps/demo/](http://mariandoerk.de/edgemaps/demo/). 
 
-a) Chose **one** visualization and critique its design by answering the following questions:
+Look at and interact with the visualization and critique its design by answering the following questions:
 
 	- Who is the intended audience?
 	- What questions does this visualization answer? 
-	- What data is represented in this visualization?
-	- How is the data visually encoded? 
-	- What design principles - Tufte / visual channels / Gestalt / CRAP - are at work? 
-	- Is this visualization telling a story? 
-	- Is the information density high / low? Is it opinionated?
-Be as precise in your answers as possible. 
-
-b) Pick one question that you think is being answered by this visualization and the associated data. Create a story around that question and create a sketch of a visualization that supports your story. To do so, you can either modify the given visualization or create a new one. You can use printouts of images and text from this visualization or others and glue them on your sketch paper. Please do NOT sketch with electronic tools.
-
-c) Is your story opinionated or neutral? Is the information density high or low?
-
-d) What design principles did you use for your design? Use the terminology of Tufte / visual channels / Gestalt / CRAP.
-
-e) Sketch a storyboard with at least two interactions that would enhance user engagement. You can use printouts and glue, but please stick to pen and paper and do NOT use electronic tools! 
+	Detailed questions:
+	- What data types are represented in this visualization? Is the data qualitative, quantitative, or ordered?
+	- How is the data visually encoded - what are the marks and channels? 
+	- How is color being used, what type of color scale do you see? 
+	- How could you improve the efficiency of the visualization by changing marks and channels and/or the used colors.
+	
 
 ## 3) Bonus Task (1 point)
 
