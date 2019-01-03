@@ -6,6 +6,23 @@ order: 8
 menu: Fame
 ---
 
+## Best Projects Fall 2018
+These are the best projects (out of 26 in total) in 2018. 
+
+### Winner
+[Visualizing the Harvard Q-Guide](http://jangeffert.com/the-visual-q/)
+Laura Chapman, Jan Geffert, Matt Jiang
+
+### Runner Ups
+[The Rise and Fall of Cryptocurrency](https://cs171-final-project.herokuapp.com/)
+Kenneth Kim, Neil Philip, Mauricio Ruiz, Eric Timmerman
+
+[The Bechdel Test: Representation of Women in Hollywood and Film](https://squaaa.github.io/TheBechdelTest/)
+Jess Eng, Cassandra Kane, Lucy Li, and Jarele Soyinka
+
+[How Private is Private? An Analysis of Healthcare and Mobile Data Sharing](https://joshseides.github.io/cs171-final-project)
+Katy McKeough, Andrea Porelli, Nicholas Ruta, Josh Seides
+
 ## Best Projects Fall 2017
 These are the best projects (out of 25 in total) in 2017. 
 
